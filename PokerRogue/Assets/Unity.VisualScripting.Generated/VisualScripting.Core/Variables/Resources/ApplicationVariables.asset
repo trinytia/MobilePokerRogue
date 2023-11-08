@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c63e9930078442aa987ca9a1511ae44, type: 3}
+  m_Name: ApplicationVariables
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Flow","collection":{"$content":[{"name":"PlayerHand","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"},{"$content":2,"$type":"UnityEngine.Object"},{"$content":3,"$type":"UnityEngine.Object"},{"$content":4,"$type":"UnityEngine.Object"},{"$content":5,"$type":"UnityEngine.Object"},{"$content":6,"$type":"UnityEngine.Object"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"OpponentHand","value":{"$content":[{"$content":7,"$type":"UnityEngine.Object"},{"$content":8,"$type":"UnityEngine.Object"},{"$content":9,"$type":"UnityEngine.Object"},{"$content":10,"$type":"UnityEngine.Object"},{"$content":11,"$type":"UnityEngine.Object"},{"$content":12,"$type":"UnityEngine.Object"},{"$content":13,"$type":"UnityEngine.Object"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 642062045654941152, guid: 82b8d1205252f3044a1c2387f4a1d5f6, type: 3}
+    - {fileID: 642062045654941152, guid: 16534ec4693d736408f12133a328f020, type: 3}
+    - {fileID: 642062045654941152, guid: cf7e8a4f96ac2de459d61771e62804b2, type: 3}
+    - {fileID: 642062045654941152, guid: b112715e79a355c45846d7e238c6f9f8, type: 3}
+    - {fileID: 642062045654941152, guid: d9dedf170b4f3254bbc83552bd0c562c, type: 3}
+    - {fileID: 642062045654941152, guid: 246f104edb5ade944b201450277d356e, type: 3}
+    - {fileID: 642062045654941152, guid: 898830949446b1e44992908c26d46232, type: 3}
+    - {fileID: 642062045654941152, guid: 48b11cbb2ab9dc343888c1c0a6494bf7, type: 3}
+    - {fileID: 642062045654941152, guid: 4a0eef6ed1532d746bdef1e81a42f4ac, type: 3}
+    - {fileID: 642062045654941152, guid: 4a17c3d40adb4d246ba36f3aa1e6dede, type: 3}
+    - {fileID: 642062045654941152, guid: 23868b3f2aa2cbe4ca0bf70cdff1e241, type: 3}
+    - {fileID: 642062045654941152, guid: acfb1815d8fff3c48bcd8cac4086b682, type: 3}
+    - {fileID: 642062045654941152, guid: 03a64edef45c8184087261eceb89e5b7, type: 3}
+    - {fileID: 642062045654941152, guid: 898830949446b1e44992908c26d46232, type: 3}
